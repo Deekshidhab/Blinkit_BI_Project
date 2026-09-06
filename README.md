@@ -168,7 +168,8 @@ Based on the dashboard:
 
 ## 🖥️ Dashboard Preview
 
-![Blinkit Power BI Dashboard](<img width="921" height="515" alt="image" src="https://github.com/user-attachments/assets/c901b31d-7e34-4923-84b8-51e09f05be58" />
+![Blinkit Power BI Dashboard]( <img width="921" height="515" alt="Screenshot 2026-09-06 205107" src="https://github.com/user-attachments/assets/b8b17832-1614-458b-88d6-d5ba81d39c73" />
+
 )
 
 ---
